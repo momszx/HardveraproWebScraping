@@ -1,3 +1,32 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@momszx 
+momszx
+/
+HardveraproWebScraping
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+HardveraproWebScraping/.gitignore
+@momszx
+momszx Initial commit
+Latest commit 3b56d7b 2 minutes ago
+ History
+ 1 contributor
+129 lines (105 sloc)  1.76 KB
+   
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +156,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
